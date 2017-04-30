@@ -1,4 +1,4 @@
-# Research-on-Application-for-soft-Landing-on-Mars-Using-Image-Matching-Technology
+# Research on Application for soft Landing on Mars Using Image Matching Technology
 By Jiang Tao at Nanjing University of Aeronautics and Astronautics.
 
 ## Introduction
@@ -7,7 +7,7 @@ By Jiang Tao at Nanjing University of Aeronautics and Astronautics.
 >
 2.This code has been tested on Windows 7 64-bit, and on MATLAB 2017a.
 >
-3.The title of thesis is 'Research-on-Application-for-soft-Landing-on-Mars-Using-Image-Matching-Technology'.
+3.The title of thesis is 'Research on Application for soft Landing on Mars Using Image Matching Technology'.
   Chinese title is "图像匹配技术在火星软着陆任务中的应用研究".
   
 ## License
